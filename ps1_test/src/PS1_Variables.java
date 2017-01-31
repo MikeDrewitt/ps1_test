@@ -1,5 +1,3 @@
-package ps1_test;
-
 public class PS1_Variables {
 
 
